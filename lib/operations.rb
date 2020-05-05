@@ -5,7 +5,6 @@ if/else
   puts "safe?"
 
 end
-end
 
 
 
