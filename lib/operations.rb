@@ -1,9 +1,8 @@
 def unsafe?(speed)
 if speed = < 60 , > 40
-  print "unsafe?"
-end
+  puts "Unsafe?"
 if/else
-  puts "unsafe"
+  puts "safe?"
 
 end
 end
